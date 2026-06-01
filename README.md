@@ -1,2 +1,7 @@
-# demo-del-plata-propiedades
-Demo web para DEL PLATA PROPIEDADES — diseñada por eterlab.
+# DEL PLATA PROPIEDADES
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
